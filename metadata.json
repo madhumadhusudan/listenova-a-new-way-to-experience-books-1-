@@ -1,0 +1,8 @@
+{
+  "name": "Listenova-A New Way to Experience Books.",
+  "description": "AI-Powered Multilingual Book & Document Listening Platform. Turn any book, PDF, or document into natural, human-like audiobooks with instant translation, intelligent chapter segmentation, and synchronized playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
