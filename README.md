@@ -9,7 +9,7 @@
 **Listenova** is an AI-powered multilingual document-to-audiobook platform designed to make reading effortless, accessible, and conversational. Whether you are consuming lengthy research papers, technical documents, literary classics, or personal notes, Listenova segments chapters, translates across languages with cultural nuance, and streams natural speech synchronized with a real-time visual teleprompter.
 
 ---
-## 🖼 Application Screenshot & Preview.
+## 🖼 Application Preview.
 <img width="1359" height="589" alt="Screenshot 2026-08-26 004830" src="https://github.com/user-attachments/assets/5dd138c3-f470-40c9-bcf9-4b383627d430" />
 
 ## ✨ Key Features
