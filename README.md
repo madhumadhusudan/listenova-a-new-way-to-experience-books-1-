@@ -117,4 +117,4 @@
 
 ## 📄 License
 
-Built with ❤️ for avid readers, learners, and listeners everywhere.
+Built for avid readers, learners, and listeners everywhere.
